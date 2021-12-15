@@ -95,7 +95,7 @@ dependencies {
 
     implementation("io.ktor:ktor-client-android:1.5.0")
     implementation("io.ktor:ktor-client-serialization:1.5.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.1.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2")
     implementation("io.ktor:ktor-client-logging-jvm:1.5.0")
 
     implementation("io.coil-kt:coil-compose:1.4.0")
